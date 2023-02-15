@@ -42,6 +42,8 @@ the extended version:
 # Results
 the same result was achieved by all three methods
 
-![alt text1](http://url/to/img.png)
-
-![alt text2](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/times.pdf)
+<object data="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
