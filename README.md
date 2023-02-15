@@ -42,8 +42,5 @@ the extended version:
 # Results
 the same result was achieved by all three methods
 
-<object data="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![cntour](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/cont_readme.png)
+![times](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/times_readme.png)
