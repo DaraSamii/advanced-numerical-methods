@@ -38,3 +38,9 @@ the extended version:
  ```math
  IC : u(x,0) = 0
  ```
+
+# Results
+the same result was achieved by all three methods
+![conotor](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf)
+
+![times]([https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/times.pdf))
