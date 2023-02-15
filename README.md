@@ -20,3 +20,21 @@ contain project of solving a nonlinear PDE with methods of line, Explcit method 
 ```math
 \frac{\partial u}{\partial t} = \frac{ \partial }{\partial x}(u \frac{\partial u}{\partial x})
 ```
+
+the extended version:
+```math
+	\frac{\partial u}{\partial t} = \frac{ \partial }{\partial x}(u \frac{\partial u}{\partial x}) = \frac{\partial u}{\partial x}.\frac{\partial u}{\partial x} + u. \frac{\partial^2 u}{\partial x^2} 
+  ```
+  
+  ## boundary condtions
+  ```math
+  BC :\begin{cases}
+	u(0,t) = 1\\
+	u(1,t) = 2
+\end{cases}
+  ```
+  
+ ## Initial Condition
+ ```math
+ IC : u(x,0) = 0
+ ```
