@@ -17,4 +17,4 @@ contain project of solving a nonlinear PDE with methods of line, Explcit method 
 
 # Problem
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partial u}{\partial t} = \frac{ \partial }{\partial x}(u \frac{\partial u}{\partial x})" />
+$\frac{\partial u}{\partial t} = \frac{ \partial }{\partial x}(u \frac{\partial u}{\partial x})$
