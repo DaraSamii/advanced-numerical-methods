@@ -41,6 +41,7 @@ the extended version:
 
 # Results
 the same result was achieved by all three methods
-![conotor](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf)
 
-![times]([https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/conotur.pdf](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/times.pdf))
+![alt text1](http://url/to/img.png)
+
+![alt text2](https://github.com/DaraSamii/advanced-numerical-methods/blob/main/imgs/times.pdf)
